@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE test SYSTEM "questions.dtd">
+<test>
+  <question id="q1">
+    <wording>Which company developed "The Legend of Zelda" series?</wording>
+    <choices>
+      <choice correct="no">Square Enix</choice>
+      <choice correct="no">Sega</choice>
+      <choice correct="yes">Nintendo</choice>
+      <choice correct="no">Capcom</choice>
+    </choices>
+  </question>
+  
+  <question id="q2">
+    <wording>In what year was the first "Super Mario Bros." released?</wording>
+    <choices>
+      <choice correct="no">1983</choice>
+      <choice correct="yes">1985</choice>
+      <choice correct="no">1987</choice>
+      <choice correct="no">1990</choice>
+    </choices>
+  </question>
+  
+  <question id="q3">
+    <wording>What is the name of the protagonist in the "Metal Gear Solid" series?</wording>
+    <choices>
+      <choice correct="yes">Solid Snake</choice>
+      <choice correct="no">Big Boss</choice>
+      <choice correct="no">Raiden</choice>
+      <choice correct="no">Revolver Ocelot</choice>
+    </choices>
+  </question>
+  
+  <question id="q4">
+    <wording>Which game first introduced the Battle Royale mode?</wording>
+    <choices>
+      <choice correct="no">Fortnite</choice>
+      <choice correct="no">PUBG</choice>
+      <choice correct="yes">Minecraft Hunger Games</choice>
+      <choice correct="no">Apex Legends</choice>
+    </choices>
+  </question>
+  
+  <question id="q5">
+    <wording>Which console is the best-selling of all time?</wording>
+    <choices>
+      <choice correct="no">PlayStation 2</choice>
+      <choice correct="yes">PlayStation 4</choice>
+      <choice correct="no">Nintendo DS</choice>
+      <choice correct="no">Xbox 360</choice>
+    </choices>
+  </question>
+  
+  <question id="q6">
+    <wording>Which of these games is NOT an RPG?</wording>
+    <choices>
+      <choice correct="no">Final Fantasy VII</choice>
+      <choice correct="no">The Witcher 3</choice>
+      <choice correct="yes">Call of Duty: Warzone</choice>
+      <choice correct="no">Dragon Quest XI</choice>
+    </choices>
+  </question>
+  
+  <question id="q7">
+    <wording>Which character is known as the "Hero of Time"?</wording>
+    <choices>
+      <choice correct="yes">Link (Ocarina of Time)</choice>
+      <choice correct="no">Mario</choice>
+      <choice correct="no">Cloud Strife</choice>
+      <choice correct="no">Master Chief</choice>
+    </choices>
+  </question>
+  
+  <question id="q8">
+    <wording>In which game did Sonic first appear?</wording>
+    <choices>
+      <choice correct="yes">Sonic the Hedgehog (1991)</choice>
+      <choice correct="no">Sonic Adventure</choice>
+      <choice correct="no">Mega Man</choice>
+      <choice correct="no">Alex Kidd</choice>
+    </choices>
+  </question>
+  
+  <question id="q9">
+    <wording>Which video game franchise has the slogan "Gotta Catch 'Em All"?</wording>
+    <choices>
+      <choice correct="no">Digimon</choice>
+      <choice correct="yes">Pokémon</choice>
+      <choice correct="no">Yu-Gi-Oh!</choice>
+      <choice correct="no">Dragon Quest Monsters</choice>
+    </choices>
+  </question>
+  
+  <question id="q10">
+    <wording>Which was the first "Grand Theft Auto" game to receive an M (Mature 17+) rating?</wording>
+    <choices>
+      <choice correct="no">GTA 1</choice>
+      <choice correct="no">GTA 2</choice>
+      <choice correct="yes">GTA III</choice>
+      <choice correct="no">GTA: Vice City</choice>
+    </choices>
+  </question>
+  
+  <question id="q11">
+    <wording>Which game popularized the "metroidvania" genre?</wording>
+    <choices>
+      <choice correct="no">Castlevania</choice>
+      <choice correct="no">Metroid</choice>
+      <choice correct="yes">Castlevania: Symphony of the Night</choice>
+      <choice correct="no">Super Metroid</choice>
+    </choices>
+  </question>
+  
+  <question id="q12">
+    <wording>Which company developed the Unreal Engine?</wording>
+    <choices>
+      <choice correct="no">Activision</choice>
+      <choice correct="no">EA</choice>
+      <choice correct="yes">Epic Games</choice>
+      <choice correct="no">Ubisoft</choice>
+    </choices>
+  </question>
+  
+  <question id="q13">
+    <wording>What was the first game to feature Massively Multiplayer Online (MMO) gameplay?</wording>
+    <choices>
+      <choice correct="no">World of Warcraft</choice>
+      <choice correct="yes">Ultima Online</choice>
+      <choice correct="no">EverQuest</choice>
+      <choice correct="no">RuneScape</choice>
+    </choices>
+  </question>
+  
+  <question id="q14">
+    <wording>Which game introduced the "Active Time Battle" turn-based combat system?</wording>
+    <choices>
+      <choice correct="yes">Final Fantasy IV</choice>
+      <choice correct="no">Dragon Quest III</choice>
+      <choice correct="no">Chrono Trigger</choice>
+      <choice correct="no">Secret of Mana</choice>
+    </choices>
+  </question>
+  
+  <question id="q15">
+    <wording>Who is the main protagonist of the "Devil May Cry" series?</wording>
+    <choices>
+      <choice correct="no">Vergil</choice>
+      <choice correct="yes">Dante</choice>
+      <choice correct="no">Nero</choice>
+      <choice correct="no">Sparda</choice>
+    </choices>
+  </question>
+  
+  <question id="q16">
+    <wording>In what year was Minecraft released?</wording>
+    <choices>
+      <choice correct="no">2008</choice>
+      <choice correct="no">2010</choice>
+      <choice correct="yes">2011</choice>
+      <choice correct="no">2012</choice>
+    </choices>
+  </question>
+  
+  <question id="q17">
+    <wording>Which game holds the record for most concurrent players on Steam?</wording>
+    <choices>
+      <choice correct="no">Dota 2</choice>
+      <choice correct="no">Counter-Strike 2</choice>
+      <choice correct="yes">PUBG: Battlegrounds</choice>
+      <choice correct="no">Cyberpunk 2077</choice>
+    </choices>
+  </question>
+  
+  <question id="q18">
+    <wording>Which console first introduced cartridge-based games?</wording>
+    <choices>
+      <choice correct="no">Atari 2600</choice>
+      <choice correct="yes">Magnavox Odyssey</choice>
+      <choice correct="no">Nintendo Entertainment System</choice>
+      <choice correct="no">Sega Master System</choice>
+    </choices>
+  </question>
+  
+  <question id="q19">
+    <wording>What is the name of the main villain in "The Legend of Zelda: Ocarina of Time"?</wording>
+    <choices>
+      <choice correct="no">Zant</choice>
+      <choice correct="no">Vaati</choice>
+      <choice correct="yes">Ganondorf</choice>
+      <choice correct="no">Ghirahim</choice>
+    </choices>
+  </question>
+  
+  <question id="q20">
+    <wording>Which real-time strategy game popularized the genre?</wording>
+    <choices>
+      <choice correct="no">Dune II</choice>
+      <choice correct="yes">Warcraft: Orcs&Humans</choice>
+      <choice correct="no">Command & Conquer</choice>
+      <choice correct="no">Age of Empires</choice>
+    </choices>
+  </question>
+</test>
