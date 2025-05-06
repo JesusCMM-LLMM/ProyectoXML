@@ -32,16 +32,14 @@ body {
   }
   
   #quiz {
-    max-width: 600px;
-    margin: 0 auto 20px auto;
+    border: 4px dashed #0f0 !important;
+    background-color: #111 !important;
     padding: 20px;
-    border: 3px dashed #0f0;
-    border-radius: 4px;
-    background-color: #111;
+    border-radius: 6px;
   }
-  
+
   #question {
-    font-size: 1.2rem;
+    font-size: 3rem;
     margin-bottom: 20px;
   }
   
@@ -78,7 +76,7 @@ body {
     color: #0f0;
     border: 2px solid #0f0;
     font-family: "Courier New", Courier, monospace;
-    font-size: 1rem;
+    font-size: 1.5rem;
     padding: 10px 20px;
     margin: 5px;
     cursor: pointer;
