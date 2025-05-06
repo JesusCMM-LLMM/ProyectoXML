@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE test SYSTEM "questions.dtd">
+<!DOCTYPE test SYSTEM "preguntas.dtd">
 <test>
   <question id="q1">
     <wording>Which company developed "The Legend of Zelda" series?</wording>
@@ -64,7 +63,7 @@
   <question id="q7">
     <wording>Which character is known as the "Hero of Time"?</wording>
     <choices>
-      <choice correct="yes">Link (Ocarina of Time)</choice>
+      <choice correct="yes">Link </choice>
       <choice correct="no">Mario</choice>
       <choice correct="no">Cloud Strife</choice>
       <choice correct="no">Master Chief</choice>
@@ -76,7 +75,7 @@
     <choices>
       <choice correct="yes">Sonic the Hedgehog (1991)</choice>
       <choice correct="no">Sonic Adventure</choice>
-      <choice correct="no">Mega Man</choice>
+      <choice correct="no">Mario and Sonic Adventures</choice>
       <choice correct="no">Alex Kidd</choice>
     </choices>
   </question>
@@ -104,10 +103,10 @@
   <question id="q11">
     <wording>Which game popularized the "metroidvania" genre?</wording>
     <choices>
-      <choice correct="no">Castlevania</choice>
+      <choice correct="yes">Castlevania</choice>
       <choice correct="no">Metroid</choice>
-      <choice correct="yes">Castlevania: Symphony of the Night</choice>
-      <choice correct="no">Super Metroid</choice>
+      <choice correct="no">Fire Emblem</choice>
+      <choice correct="no">Kid Icarus</choice>
     </choices>
   </question>
   
@@ -195,8 +194,8 @@
     <wording>Which real-time strategy game popularized the genre?</wording>
     <choices>
       <choice correct="no">Dune II</choice>
-      <choice correct="yes">Warcraft: Orcs&Humans</choice>
-      <choice correct="no">Command & Conquer</choice>
+      <choice correct="yes">Warcraft: Orcs and Humans</choice>
+      <choice correct="no">Command and Conquer</choice>
       <choice correct="no">Age of Empires</choice>
     </choices>
   </question>

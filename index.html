@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Quiz Interactivo</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Cuestionario de Videojuegos</h1>
+
+  <div id="controls">
+    <label for="language">IDIOMA:</label>
+    <select id="language" onchange="loadXML()">
+      <option value="ESP">Español</option>
+      <option value="ING">Inglés</option>
+    </select>
+    <span id="timer">TIEMPO: 0s</span>
+  </div>
+
+  <div id="quiz">
+    <p id="question"></p>
+    <form id="choices"></form>
+  </div>
+
+  <div id="buttons">
+    <button onclick="prevQuestion()">Anterior</button>
+    <button onclick="nextQuestion()">Siguiente</button>
+    <button onclick="resetQuiz()">Reiniciar</button>
+    <button onclick="submitQuiz()">Entregar</button>
+  </div>
+
+  <p id="score"></p>
+
+  <script src="quiz.js"></script>
+</body>
+</html>

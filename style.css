@@ -1,0 +1,102 @@
+body {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 2rem;
+    background-color: #000;
+    background-image: url('HD-wallpaper-pac-man-retro-gaming-game-video-game-oldschool-classic-vintage.jpg'); 
+    background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center; /* Centra la imagen */
+    color: #00FF00;
+    margin: 40px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    color: #0f0;
+    text-shadow: 0 0 5px #0f0;
+  }
+  
+  #controls {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 1rem;
+  }
+  
+  #timer {
+    margin-left: 15px;
+    color: #0f0;
+  }
+  
+  #quiz {
+    max-width: 600px;
+    margin: 0 auto 20px auto;
+    padding: 20px;
+    border: 3px dashed #0f0;
+    border-radius: 4px;
+    background-color: #111;
+  }
+  
+  #question {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  #choices div {
+    margin: 10px 0;
+  }
+  
+  #choices label {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #000;
+    border: 2px solid #0f0;
+    color: #0f0;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  #choices input[type="radio"] {
+    margin-right: 8px;
+    transform: scale(1.2);
+  }
+  
+  #choices label:hover {
+    background-color: #0f0;
+    color: #000;
+  }
+  
+  #buttons {
+    margin-top: 20px;
+  }
+  
+  button {
+    background-color: #000;
+    color: #0f0;
+    border: 2px solid #0f0;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1rem;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    box-shadow: 2px 2px 0 #0f0;
+    transition: 0.1s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #0f0;
+    color: #000;
+    box-shadow: 0 0 10px #0f0;
+  }
+  
+  #score {
+    font-size: 1.2rem;
+    color: #00FF00;
+    margin-top: 20px;
+    text-shadow: 0 0 5px #0f0;
+  }
+  

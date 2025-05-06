@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE test SYSTEM "preguntas.dtd">
 <test>
   <question id="q1">
@@ -64,7 +63,7 @@
   <question id="q7">
     <wording>¿Qué personaje es conocido como el "Héroe del Tiempo"?</wording>
     <choices>
-      <choice correct="yes">Link (Ocarina of Time)</choice>
+      <choice correct="yes">Link </choice>
       <choice correct="no">Mario</choice>
       <choice correct="no">Cloud Strife</choice>
       <choice correct="no">Master Chief</choice>
@@ -76,7 +75,7 @@
     <choices>
       <choice correct="yes">Sonic the Hedgehog (1991)</choice>
       <choice correct="no">Sonic Adventure</choice>
-      <choice correct="no">Mega Man</choice>
+      <choice correct="no">Mario y Sonic Adventures</choice>
       <choice correct="no">Alex Kidd</choice>
     </choices>
   </question>
@@ -104,10 +103,10 @@
   <question id="q11">
     <wording>¿Qué juego popularizó el género de los "metroidvania"?</wording>
     <choices>
-      <choice correct="no">Castlevania</choice>
+      <choice correct="yes">Castlevania</choice>
       <choice correct="no">Metroid</choice>
-      <choice correct="yes">Castlevania: Symphony of the Night</choice>
-      <choice correct="no">Super Metroid</choice>
+      <choice correct="no">Fire Emblem</choice>
+      <choice correct="no">Kid Icarus</choice>
     </choices>
   </question>
   
@@ -195,8 +194,8 @@
     <wording>¿Qué juego de estrategia en tiempo real popularizó el género?</wording>
     <choices>
       <choice correct="no">Dune II</choice>
-      <choice correct="yes">Warcraft: Orcs & Humans</choice>
-      <choice correct="no">Command & Conquer</choice>
+      <choice correct="yes">Warcraft: Orcs and Humans</choice>
+      <choice correct="no">Command and Conquer</choice>
       <choice correct="no">Age of Empires</choice>
     </choices>
   </question>
