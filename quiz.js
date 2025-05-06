@@ -8,6 +8,7 @@ let timerInterval = null;
 
 function loadXML() {
   const lang = document.getElementById("language").value;
+  document.getElementById("score").textContent = "";
   const file = lang === "ING" ? "xml/PreguntasING.xml" : "xml/PreguntasESP.xml"; //para seleccionar el idioma según el select del html
 
   const xhttp = new XMLHttpRequest();
