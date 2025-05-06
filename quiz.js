@@ -83,8 +83,9 @@ function prevQuestion() {
 }
 
 function resetQuiz() {
-  loadXML(); // Se carga desde el principio
-}
+    document.getElementById("score").textContent = ""; // Limpia el mensaje de resultado y Recarga el XML y reinicia todo
+    loadXML(); 
+  }
 
 function submitQuiz() {
   saveAnswer();
