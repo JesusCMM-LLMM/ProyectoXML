@@ -3,9 +3,9 @@ body {
     font-size: 2rem;
     background-color: #000;
     background-image: url('HD-wallpaper-pac-man-retro-gaming-game-video-game-oldschool-classic-vintage.jpg'); 
-    background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
-    background-repeat: no-repeat; /* Evita que la imagen se repita */
-    background-position: center; /* Centra la imagen */
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
     color: #00FF00;
     margin: 40px;
     text-align: center;
